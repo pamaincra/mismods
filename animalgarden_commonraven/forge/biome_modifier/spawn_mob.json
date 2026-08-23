@@ -1,0 +1,12 @@
+{
+  	"type": "forge:add_spawns",
+  	"biomes": "#animalgarden_commonraven:mob",
+  	"spawners": [
+		{
+		    "type": "animalgarden_commonraven:commonraven",
+			"weight": 15,
+			"minCount": 1,
+			"maxCount": 1
+		}
+	]
+}
