@@ -1,0 +1,12 @@
+{
+   "type":"forge:add_spawns",
+   "biomes":"#animalgarden_prairiedog:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_prairiedog:prairiedog",
+         "weight":10,
+         "minCount":1,
+         "maxCount":3
+      }
+   ]
+}

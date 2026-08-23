@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "bonemeal",
+  "ingredients": [
+    "animalgarden_narwhal:narwhal_tusk_item"
+  ],
+  "result": {
+    "count": 5,
+    "id": "minecraft:bone_meal"
+  }
+}

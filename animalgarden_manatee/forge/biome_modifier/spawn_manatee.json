@@ -1,0 +1,12 @@
+{
+  	"type": "forge:add_spawns",
+  	"biomes": "#animalgarden_manatee:mob",
+  	"spawners": [
+		{
+		    "type": "animalgarden_manatee:manatee",
+			"weight": 15,
+			"minCount": 1,
+			"maxCount": 1
+		}
+	]
+}

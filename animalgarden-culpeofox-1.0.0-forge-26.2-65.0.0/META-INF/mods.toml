@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All rights reserved"
+[[mods]]
+modId="animalgarden_culpeofox"
+version="1.0.0"
+displayName="Animal Garden - Culpeo Fox"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/animal-garden-culpeo-fox"
+credits="" 
+authors="aquarius_playz" 
+
+description='''
+More info at the website.
+'''
+
+[[dependencies.animalgarden_culpeofox]]
+    modId="aquarius_libs"
+    mandatory=true
+    versionRange="[1.0.0,]"
+    ordering="NONE"
+    side="BOTH"

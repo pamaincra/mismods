@@ -1,0 +1,12 @@
+{
+   "type":"neoforge:add_spawns",
+   "biomes":"#animalgarden_narwhal:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_narwhal:narwhal",
+         "weight":10,
+         "minCount":1,
+         "maxCount":2
+      }
+   ]
+}

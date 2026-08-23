@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "animalgarden_culpeofox",
+	"version": "${version}",
+	"name": "Animal Garden - Culpeo Fox",
+	"description": "More info at webiste!",
+	"authors": [
+		"aquariusplayz!"
+	],
+	"contact": {
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/animal-garden-culpeo-fox/"
+	},
+	"license": "All Rights Reserved",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"aquariusplayz.animalgarden.culpeofox.setup.ModSetup"
+		],
+		"client": [
+			"aquariusplayz.animalgarden.culpeofox.setup.ClientSetup"
+		]
+	},
+	"mixins": [
+		"animalgarden_culpeofox.mixins.json"
+	],
+	"depends": {
+		"aquarius_libs": "*",
+		"fabric-api": "*"
+	}
+}

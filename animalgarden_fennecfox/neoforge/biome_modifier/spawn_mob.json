@@ -1,0 +1,12 @@
+{
+   "type":"neoforge:add_spawns",
+   "biomes":"#animalgarden_fennecfox:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_fennecfox:fennecfox",
+         "weight":5,
+         "minCount":1,
+         "maxCount":1
+      }
+   ]
+}

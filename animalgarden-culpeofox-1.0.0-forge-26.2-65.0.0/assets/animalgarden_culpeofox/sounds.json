@@ -1,0 +1,13 @@
+{
+  	"entity.animalgarden_culpeofox.idle": {
+		"sounds": [
+     		"animalgarden_culpeofox:idle1",
+			"animalgarden_culpeofox:idle2",
+			"animalgarden_culpeofox:idle3",
+			"animalgarden_culpeofox:idle4",
+			"animalgarden_culpeofox:idle5",
+			"animalgarden_culpeofox:idle6",
+			"animalgarden_culpeofox:idle7"
+    	]
+  	}
+}

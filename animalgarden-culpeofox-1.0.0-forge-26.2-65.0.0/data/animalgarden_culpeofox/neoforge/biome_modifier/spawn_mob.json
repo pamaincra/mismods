@@ -1,0 +1,12 @@
+{
+   "type":"neoforge:add_spawns",
+   "biomes":"#animalgarden_culpeofox:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_culpeofox:culpeofox",
+         "weight":25,
+         "minCount":1,
+         "maxCount":1
+      }
+   ]
+}
