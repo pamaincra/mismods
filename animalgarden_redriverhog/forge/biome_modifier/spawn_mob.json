@@ -1,0 +1,12 @@
+{
+   "type":"forge:add_spawns",
+   "biomes":"#animalgarden_redriverhog:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_redriverhog:redriverhog",
+         "weight":10,
+         "minCount":1,
+         "maxCount":3
+      }
+   ]
+}

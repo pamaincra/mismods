@@ -1,0 +1,12 @@
+{
+   "type":"forge:add_spawns",
+   "biomes":"#animalgarden_springhare:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_springhare:springhare",
+         "weight":10,
+         "minCount":1,
+         "maxCount":1
+      }
+   ]
+}

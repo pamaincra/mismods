@@ -1,0 +1,12 @@
+{
+   "type":"neoforge:add_spawns",
+   "biomes":"#animalgarden_seaotter:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_seaotter:seaotter",
+         "weight":10,
+         "minCount":1,
+         "maxCount":1
+      }
+   ]
+}
