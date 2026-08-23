@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "animalgarden_bison:item/template_spawn_egg",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 8672557
+      },
+      {
+        "type": "minecraft:constant",
+        "value": 2760477
+      }
+    ]
+  }
+}

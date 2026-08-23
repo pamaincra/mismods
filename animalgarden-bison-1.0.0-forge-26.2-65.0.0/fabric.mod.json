@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "animalgarden_bison",
+	"version": "${version}",
+	"name": "animalgarden_bison",
+	"description": "More info at webiste!",
+	"authors": [
+		"aquariusplayz!"
+	],
+	"contact": {
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/animal-garden-bison/"
+	},
+	"license": "All Rights Reserved",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"aquariusplayz.animalgarden.bison.setup.ModSetup"
+		],
+		"client": [
+			"aquariusplayz.animalgarden.bison.setup.ClientSetup"
+		]
+	},
+	"mixins": [
+		"animalgarden_bison.mixins.json"
+	],
+	"depends": {
+		"aquarius_libs": "*",
+		"fabric-api": "*"
+	}
+}

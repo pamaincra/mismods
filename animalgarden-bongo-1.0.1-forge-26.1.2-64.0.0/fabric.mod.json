@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "animalgarden_bongo",
+	"version": "${version}",
+	"name": "animalgarden_bongo",
+	"description": "More info at webiste!",
+	"authors": [
+		"aquariusplayz!"
+	],
+	"contact": {
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/animal-garden-bongo/"
+	},
+	"license": "All Rights Reserved",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"aquariusplayz.animalgarden.bongo.setup.ModSetup"
+		],
+		"client": [
+			"aquariusplayz.animalgarden.bongo.setup.ClientSetup"
+		]
+	},
+	"mixins": [
+		"animalgarden_bongo.mixins.json"
+	],
+	"depends": {
+		"aquarius_libs": "*",
+		"fabric-api": "*"
+	}
+}

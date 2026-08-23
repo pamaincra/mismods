@@ -1,0 +1,19 @@
+{
+  	"entity.animalgarden_bison.idle": {
+		"sounds": [
+     		"animalgarden_bison:idle1",
+			"animalgarden_bison:idle2",
+			"animalgarden_bison:idle3",
+			"animalgarden_bison:idle4",
+			"animalgarden_bison:idle5",
+			"animalgarden_bison:idle6",
+			"animalgarden_bison:idle7",
+			"animalgarden_bison:idle8",
+			"animalgarden_bison:idle9",
+			"animalgarden_bison:idle10",
+			"animalgarden_bison:idle11",
+			"animalgarden_bison:idle12",
+			"animalgarden_bison:idle13"
+    	]
+  	}
+}

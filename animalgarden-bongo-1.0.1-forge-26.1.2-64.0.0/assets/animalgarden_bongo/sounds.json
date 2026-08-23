@@ -1,0 +1,9 @@
+{
+  	"entity.animalgarden_bongo.idle": {
+		"sounds": [
+     		"animalgarden_bongo:idle1",
+			"animalgarden_bongo:idle2",
+			"animalgarden_bongo:idle3"
+    	]
+  	}
+}

@@ -1,0 +1,12 @@
+{
+   "type":"neoforge:add_spawns",
+   "biomes":"#animalgarden_bongo:mob",
+   "spawners":[
+      {
+         "type":"animalgarden_bongo:bongo",
+         "weight":15,
+         "minCount":1,
+         "maxCount":3
+      }
+   ]
+}
