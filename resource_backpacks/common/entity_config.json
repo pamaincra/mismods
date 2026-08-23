@@ -1,0 +1,8 @@
+{
+  "Spawn Chance": {
+    "zombieSpawnWithLeatherBackpack": 0.05,
+    "creeperSpawnWithLeatherBackpack": 0.05,
+    "zombieSpawnWithCopperBackpack": 0.02,
+    "creeperSpawnWithCopperBackpack": 0.02
+  }
+}

@@ -1,0 +1,19 @@
+# Simple Hammers Configuration
+
+[general]
+
+# If true, sneaking mines only 1x1 instead of 3x3.
+sneakMines1x1 = true
+
+
+[durability]
+
+# You can change the durability for each hammer here.
+wooden = 108
+stone = 262
+copper = 380
+golden = 64
+iron = 506
+emerald = 2084
+diamond = 3122
+netherite = 4062
